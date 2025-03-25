@@ -1,0 +1,4 @@
+services:
+  app:
+    image: bart0lomeo/zadanie_01:latest
+    container_name: zadanie01-app
